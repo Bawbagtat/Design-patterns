@@ -1,0 +1,18 @@
+﻿<Window x:Class="SkyWars_DuckEdition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sky Wars - &quot;Duck Edition&quot;" Height="548.508" Width="870.31">
+    <Grid Height="520" VerticalAlignment="Top" Margin="0,0,2,-2">
+
+        <Grid x:Name="gameGrid" Margin="10,10,0,127" Background="Black" HorizontalAlignment="Left" Width="521"/>
+
+        <Button Content="Move" HorizontalAlignment="Left" Margin="35,409,0,0" VerticalAlignment="Top" Width="141" Click="Button_Click_2"/>
+        <Button Content="Undo" HorizontalAlignment="Left" Margin="35,467,0,0" VerticalAlignment="Top" Width="141" Click="Button_Click_3"/>
+        <Button Content="Offensive" HorizontalAlignment="Left" Margin="224,409,0,0" VerticalAlignment="Top" Width="125" Click="Button_Click"/>
+        <Button Content="Defensive" HorizontalAlignment="Left" Margin="224,467,0,0" VerticalAlignment="Top" Width="125" RenderTransformOrigin="0.302,0.469" Click="Button_Click_1"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="179" Margin="531,29,0,0" VerticalAlignment="Top" Width="319" Source="Resources/coverwars.jpg"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Height="107" Margin="565,162,10,251" TextWrapping="Wrap" Text="Sky Wars" VerticalAlignment="Center" Width="285" FontFamily="MV Boli" FontSize="64"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Center" Height="78" Margin="565,274,10,168" TextWrapping="Wrap" Text="The Duck Edition" VerticalAlignment="Center" Width="285" FontFamily="Showcard Gothic" FontSize="29.333"/>
+
+    </Grid>
+</Window>

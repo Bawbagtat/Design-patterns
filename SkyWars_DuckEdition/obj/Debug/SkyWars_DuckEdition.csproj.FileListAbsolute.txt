@@ -1,0 +1,28 @@
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\bin\Debug\SkyWars_DuckEdition.exe.config
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\bin\Debug\SkyWars_DuckEdition.exe
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\bin\Debug\SkyWars_DuckEdition.pdb
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.csprojResolveAssemblyReference.cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\MainWindow.baml
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\MainWindow.g.cs
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\App.g.cs
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition_MarkupCompile.cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.g.resources
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.Properties.Resources.resources
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.csproj.GenerateResource.Cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.exe
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.pdb
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228780\visual studio 2013\Projects\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition_Content.g.cs
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\bin\Debug\SkyWars_DuckEdition.exe.config
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.exe
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.pdb
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\bin\Debug\SkyWars_DuckEdition.exe
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\bin\Debug\SkyWars_DuckEdition.pdb
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\MainWindow.baml
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\MainWindow.g.cs
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\App.g.cs
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition_MarkupCompile.cache
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.g.resources
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.Properties.Resources.resources
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\SkyWars_DuckEdition\SkyWars_DuckEdition\obj\Debug\SkyWars_DuckEdition_Content.g.cs
